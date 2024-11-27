@@ -1,4 +1,4 @@
-baseURL = 'https://www.morrell.info/'
+baseURL = 'https://morrell.info/'
 languageCode = 'en-us'
 title = 'William Morrell'
 theme = 'hyde'
