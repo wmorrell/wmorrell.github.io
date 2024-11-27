@@ -1,0 +1,8 @@
+baseURL = 'https://www.morrell.info/'
+languageCode = 'en-us'
+title = 'William Morrell'
+theme = 'hyde'
+
+[params]
+description = ' '
+layoutReverse = true
